@@ -1,7 +1,7 @@
 <h1 align="center">G'Day, It's Alex</h1>
 <h3 align="center">I specialize in backend development primarily with Javascript and Typescript</h1>
 <br>
-<h2 align="center">• My Skills •</h2>
+<h3 align="center"><b>• My Skills •</b></h3>
 
 <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
@@ -42,7 +42,7 @@
     </a>
 </div>
 <br><br><br>
-<h2 align="center">• Contact me •</h3>
+<h3 align="center"><b>• Contact Me •</b></h3>
 <div align="center">
     <a href="https://github.com/alex-git1/alex-git1/blob/main/discord.md">
         <img src="https://raw.githubusercontent.com/gist/uzza1hossain/e2521e3150e68c2a68a78bdece8a29d9/raw/558a213049001c294356bfc4f2e1a6590ed04532/discord-logo.svg" height="50px">
