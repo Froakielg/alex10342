@@ -40,6 +40,9 @@
     <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" height="40px">
     </a>
+    <a href="https://luau-lang.org/" target="_blank">
+        <img src="https://doy2mn9upadnk.cloudfront.net/uploads/default/original/4X/c/5/a/c5acf1685bdf34d1d721c0c5ec8fc3c4e8c80b03.png" height="40px">
+    </a>
 </div>
 <br><br><br>
 <h3 align="center"><b>• Contact Me •</b></h3>
