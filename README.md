@@ -1,7 +1,7 @@
 <h1 align="center">G'Day, It's Alex</h1>
 <h3 align="center">I specialize in backend development primarily with Javascript and Typescript</h1>
 <br>
-<h2 align="center">• My Skills •</h3>
+<h2 align="center">• My Skills •</h2>
 
 <div align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
