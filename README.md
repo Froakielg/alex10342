@@ -7,9 +7,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" height="40px">
     </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" height="40px">
-    </a>
     <a href="https://nodejs.dev/learn" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-plain-wordmark.svg" height="40px">
     </a>
