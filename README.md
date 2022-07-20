@@ -42,7 +42,6 @@
     </a>
 </div>
 <br><br><br>
-<h3 align="center"><b>• Contact Me •</b></h3>
 <div align="center">
     (i need to update this)
 </div>
