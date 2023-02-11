@@ -1,8 +1,6 @@
 <h1 align="center">G'Day, It's Alex</h1>
 <h3 align="center">I specialize in backend development primarily with Javascript and Typescript</h1>
 
-![Amelia Watson](https://images.wallpapersden.com/image/download/watson-amelia-virtual-youtuber_bGlqZ2yUmZqaraWkpJRnaWVlrWZnZWU.jpg)
-
 <br>
 <h3 align="center"><b>• My Skills •</b></h3>
 
